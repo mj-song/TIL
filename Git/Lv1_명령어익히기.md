@@ -27,4 +27,5 @@
 ##### 참고
 * [지옥에서 온 Git](https://opentutorials.org/course/2708)
 * [Reset vs. Revert](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-git-back-to-the-future/)
+* [SVN vs. GIT](https://tonyne.jeju.onl/2016/06/07/why-use-github-on-small-company/)
  
